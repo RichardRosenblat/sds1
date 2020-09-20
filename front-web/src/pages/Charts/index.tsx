@@ -21,7 +21,7 @@ const initialPieData = {
     series: []
 }
 
-const BASE_URL = 'http://real:8080'
+const BASE_URL = 'https://sds1-richard.herokuapp.com';
 
 
 const Charts = () => {
